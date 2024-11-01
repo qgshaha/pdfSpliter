@@ -1,1 +1,3 @@
 # pdfSpliter
+
+dependence PdfSharpCore
